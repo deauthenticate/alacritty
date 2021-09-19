@@ -1,0 +1,3 @@
+aiohttp==3.7.4.post0
+aiohttp_proxy==0.1.2
+tasksio==0.0.0
